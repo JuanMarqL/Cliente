@@ -1,7 +1,7 @@
 /*const numAleatorio = valor => Math.trunc(Math.random() * valor ) +1;
 document.write(numAleatorio(10));*/
 
- /*function suma (a , b ){
+ function suma (a , b ){
 
   let a = prompt("Introduce un numero");
 
@@ -11,9 +11,9 @@ document.write(numAleatorio(10));*/
 
   document.write(result);
 
-};*/
+};
 
-/*let suma = () =>{
+let suma = () =>{
 
   let num1 = prompt("introduce el primer numero");
   let num2 = prompt("Introduce el segundo numero");
@@ -53,7 +53,7 @@ let multiplicacion = () =>{
   let resultado = parseInt(num1) * parseInt(num2);
 
   document.write(resultado);
-}*/
+}
 
 let ciudad = new Map([
   ['malaga', 500],
